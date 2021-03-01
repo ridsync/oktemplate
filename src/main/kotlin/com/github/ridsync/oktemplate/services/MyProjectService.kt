@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.ridsync.oktemplate.services
 
+import com.github.ridsync.oktemplate.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
